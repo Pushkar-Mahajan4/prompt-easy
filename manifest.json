@@ -1,0 +1,9 @@
+{
+
+    "name" : "Prompt-easy",
+    "descriptiin" : "Promprt templates for LLM",
+    "action": {
+        "default-popup" : "index.html",
+        "default-icon" : "favicon.svg"
+    }
+}
