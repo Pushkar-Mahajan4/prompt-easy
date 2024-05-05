@@ -5,7 +5,7 @@
     "manifest_version": 3,
     "version": "1.0",
     "action": {
-        "default-popup" : "index.html",
-        "default-icon" : "favicon.svg"
+        "default_popup" : "index.html",
+        "default_icon" : "favicon.png"
     }
 }
