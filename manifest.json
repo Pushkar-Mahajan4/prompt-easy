@@ -1,7 +1,9 @@
 {
 
     "name" : "Prompt-easy",
-    "descriptiin" : "Promprt templates for LLM",
+    "description" : "Prompt templates for LLM",
+    "manifest_version": 3,
+    "version": "1.0",
     "action": {
         "default-popup" : "index.html",
         "default-icon" : "favicon.svg"
